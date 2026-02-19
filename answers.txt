@@ -13,3 +13,6 @@ Answer: Data science may be used to parse large amounts of information for any s
 Q3: What is the difference between merging and rebasing?
 Answer: Merging combines two branches together, and rebasing places one branch after the other. The former preserves version history, whereas the latter rewrites it.
 
+Q4: What are you looking forward to this semester?
+Answer: I'm very excited to apply statistical analysis through programming. I've used these formulas manually in previous classes, so it's interesting to see them applied to larger datasets.
+
