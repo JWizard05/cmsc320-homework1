@@ -1,0 +1,9 @@
+
+CMSC320
+HOMEWORK 1: Introduction to Git and GitHub
+Josh Tagle
+UID#120941900
+
+Q2: What field could data science be applied to? Give an example.
+Answer: Data science may be used to parse large amounts of information for any scientific purpose. It may be used by paleontologists to identify variations in fossil DNA or philsophers who want to aggregate survey responses to moral issues
+
