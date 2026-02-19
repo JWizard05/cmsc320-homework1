@@ -10,3 +10,6 @@ Answer: Git allows us to track multiple versions of our projects saved on both l
 Q2: What field could data science be applied to? Give an example.
 Answer: Data science may be used to parse large amounts of information for any scientific purpose. It may be used by paleontologists to identify variations in fossil DNA or philsophers who want to aggregate survey responses to moral issues.
 
+Q3: What is the difference between merging and rebasing?
+Answer: Merging combines two branches together, and rebasing places one branch after the other. The former preserves version history, whereas the latter rewrites it.
+
